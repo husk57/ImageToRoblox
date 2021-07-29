@@ -1,0 +1,1 @@
+put the image you wanna convert in the directory and change the dimension variables in the generator.js to reflect that of the image. run `node generator.js` then open output.json in sublime text and copy the string. then in roblox put this in a module and intrepret the data from there. example.lua shows a implementation
